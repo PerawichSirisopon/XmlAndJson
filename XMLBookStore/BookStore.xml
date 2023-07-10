@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="cooking">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2005</year>
+    <price>30.00</price>
+    </book>
+    <book category="coding">
+    <title lang="en">Java</title>
+    <id>01</id>
+    <author>Herbert Schildt</author>
+    <edition>third</edition>
+    </book>
+    <book category="coding">
+    <title lang="en">C++</title>
+    <id>07</id>
+    <author>Sakdee Jaidee</author>
+    <edition>seventh</edition>
+    </book>
+    </bookstore>
