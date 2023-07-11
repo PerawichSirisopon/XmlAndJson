@@ -1,0 +1,18 @@
+{
+  "student": {
+    "student": "Robert",
+    "gpa": "3.06",
+    "register": {
+      "subject": [
+        {
+          "sid": "322433",
+          "grade": "A"
+        },
+        {
+          "sid": "322236",
+          "grade": "C"
+        }
+      ]
+    }
+  }
+}

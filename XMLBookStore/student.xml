@@ -1,0 +1,12 @@
+<student>
+  <item>
+    <id>01</id>
+    <name>Tom</name>
+    <lastname>Price</lastname>
+  </item>
+  <item>
+    <id>02</id>
+    <name>Nick</name>
+    <lastname>Thameson</lastname>
+  </item>
+</student>
